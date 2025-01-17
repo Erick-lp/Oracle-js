@@ -69,11 +69,11 @@ AmigoSecreto/
 
 ### Ejemplo de lista de amigos
 
-![Lista de amigos](assets/lista.png)
+![Lista de amigos](assets/pantalla-lista.png)
 
 ### Resultado del sorteo
 
-![Resultado del sorteo](assets/resultado.png)
+![Resultado del sorteo](assets/pantalla-resultado.png)
 
 ---
 
